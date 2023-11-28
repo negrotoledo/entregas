@@ -1,0 +1,23 @@
+[
+  {
+    "id": "CAAB6B6CBC626B903B8FA748DCDA8C2C",
+    "products": [
+      {
+        "product": "F3EAF2BE1A4F1D2419DDED0D72E",
+        "quantity": 6
+      },
+      {
+        "product": "F3EAF2BE1A4D241936D0FDDED0D72E",
+        "quantity": 1
+      },
+      {
+        "product": "F3EAF2BE1A4D241936D0FDDED0D72E",
+        "quantity": 1
+      },
+      {
+        "product": "F3EAF2BE1A4D241936D0FDDED0D77C",
+        "quantity": 10
+      }
+    ]
+  }
+]

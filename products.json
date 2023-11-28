@@ -1,0 +1,98 @@
+[
+  {
+    "title": "item",
+    "description": "Product 1",
+    "code": "ABC",
+    "price": 200,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAF2BE1A4D241936D0FDDED0D72E"
+  },
+  {
+    "title": "second item",
+    "description": "Product 2",
+    "code": "DEF",
+    "price": 300,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAFS2BE1A4F1D241936D0FDDED0D72E"
+  },
+  {
+    "title": "third item",
+    "description": "Product 3",
+    "code": "HIJ",
+    "price": 500,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAF2BE1A34F1D241936D0FDDED0D72E"
+  },
+  {
+    "title": "forth item",
+    "description": "Product 4",
+    "code": "KLM",
+    "price": 2000,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAF2BE1A4F1D24193612D0FDDED0D72E"
+  },
+  {
+    "title": "fifth item",
+    "description": "Product 5",
+    "code": "ABC",
+    "price": 200,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3E12F2BE1A4F1D241936D0FDDED0D72E"
+  },
+  {
+    "title": "first itassdem",
+    "description": "Product 6",
+    "code": "ABsCss",
+    "price": 2000,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAF2BE1A4F1D241936D0FDDED0D72E"
+  },
+  {
+    "title": "seventh item",
+    "description": "Product 7",
+    "code": "ABC",
+    "price": 200,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAF2BE1A4F1D2419DDED0D72E"
+  },
+  {
+    "title": "eight item",
+    "description": "Product 8",
+    "code": "ABC",
+    "price": 200,
+    "stock": 0,
+    "thumbails": [
+      ""
+    ],
+    "category": "uncategorized",
+    "id": "F3EAF2BE1A4F1D241936D0FDDED0D72E"
+  }
+]
